@@ -1,5 +1,5 @@
 ## git-tutorial
-
+Rishabh Jain :)
 Contributors: Sidney Kochman, Hannah Lim, Andrew Qu, Grace Roller
 
 Thank you to [Daniele Procida](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html) and [Nicola Paolucci](https://www.atlassian.com/git/articles/git-forks-and-upstreams) for their amazing Git resources!
